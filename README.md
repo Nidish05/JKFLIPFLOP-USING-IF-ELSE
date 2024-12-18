@@ -50,7 +50,7 @@ step-6 Run the program.
 
 ```
 
-PROGRAM
+
 
 
 **PROGRAM**
